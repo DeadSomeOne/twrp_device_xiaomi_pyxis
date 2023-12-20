@@ -6,3 +6,7 @@
 #
 
 LOCAL_PATH := device/xiaomi/pyxis
+
+# Api level
+PRODUCT_SHIPPING_API_LEVEL := 28
+
