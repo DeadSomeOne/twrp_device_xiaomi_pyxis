@@ -43,6 +43,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
     export FOX_ASH_IS_BASH=1
     export OF_MAINTAINER="DeadSomeOne"
     export OF_SCREEN_H=2340
+    export OF_STATUS_H=-85
     export OF_STATUS_INDENT_LEFT=48
     export OF_STATUS_INDENT_RIGHT=48
     export OF_HIDE_NOTCH=1
